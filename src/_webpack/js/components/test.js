@@ -1,5 +1,8 @@
+const log = (text) => {
+	console.log(text);
+}
 const go = () => {
-	console.log('test');
+	log('test');
 };
 
 go();
