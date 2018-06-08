@@ -16,6 +16,8 @@ destination: dist
 # use Jekyll autoprefixer
 plugins:
   - jekyll-autoprefixer
+  - jekyll-last-modified-at
+  - jekyll-sitemap
 
 # Default variables, you can overwrite them in posts or pages frontmatter
 title: The Page Title
@@ -24,7 +26,6 @@ ogimage: urltosuperfancyimage.jpg
 description: The page description
 background_color: "#fff"
 theme_color: "#536878"
-start_url: http://localhost:4000/
 
 # Editor config options for Cloudcannon
 _options:

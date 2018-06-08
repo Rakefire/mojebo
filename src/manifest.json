@@ -10,7 +10,7 @@
       "type": ""
     }
   ],
-  "start_url": "{{ site.start_url }}",
+  "start_url": "{{ site.url }}",
   "background_color": "{{ site.background_color }}",
   "theme_color": "{{ site.theme_color }}",
   "display": "standalone"
