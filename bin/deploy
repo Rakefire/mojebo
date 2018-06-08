@@ -2,6 +2,8 @@
 
 echo
 echo "Commit and Deploy"
+
+git pull origin master
 git add .
 git commit
 git push origin master
