@@ -2,7 +2,7 @@ const log = (text) => {
 	console.log(text);
 }
 const go = () => {
-	log('test2');
+	log('test3');
 };
 
 go();
