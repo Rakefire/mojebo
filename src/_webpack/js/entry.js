@@ -2,7 +2,5 @@
 import "../scss/main.scss";
 
 // JS
-import './components/test'
-
-// Node modules
-// import 'swiper'
+import './components/test';
+import './components/turbolinks';

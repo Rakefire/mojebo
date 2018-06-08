@@ -1,4 +1,5 @@
-var go = () => {
-	return 'test';
-}
-console.log(go());
+const go = () => {
+	console.log('test');
+};
+
+go();
