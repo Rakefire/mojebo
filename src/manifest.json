@@ -1,0 +1,17 @@
+---
+---
+{
+  "short_name": "{{ site.short_name }}",
+  "name": "{{ site.title }}",
+  "icons": [
+    {
+      "src":"",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "start_url": "{{ site.start_url }}",
+  "background_color": "{{ site.background_color }}",
+  "theme_color": "{{ site.theme_color }}",
+  "display": "standalone"
+}
