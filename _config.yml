@@ -30,7 +30,7 @@ theme_color: "#536878"
 # Editor config options for Cloudcannon
 _options:
   content:
-    styles: /src/assets/css/wysiwyg.css
+    styles: src/assets/wysiwyg.css
     bold: true
     italic: true
     link: true
