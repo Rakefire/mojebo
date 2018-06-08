@@ -4,3 +4,4 @@ dist
 node_modules
 Gemfile.lock
 .bundle
+.DS_Store
