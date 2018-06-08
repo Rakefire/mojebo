@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo
+echo "Commit and Deploy"
+git add .
+git commit
+git push origin master
